@@ -1,0 +1,74 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+
+.bigimg{
+    padding-top: 55px;
+}
+
+.warp .w-p p{
+    float: left;
+    text-decoration: none;
+    margin: -19px 27px;
+    font-size: 12px;
+
+}
+.warp .w-pone a{
+    float: right;
+    text-decoration: none;
+    margin: -29px 38px;
+    font-size: 12px;
+
+}
+.warp .w-warp{
+    border:1px solid #979797;
+    text-decoration: none;
+    margin-top: 30px;
+    width: 96%;
+
+}
+
+.a-onep a{
+     text-decoration: none;
+    color: #000;
+}
+.a-twop a{
+     text-decoration: none;
+    color: #000;
+}
+.a-thep a{
+     text-decoration: none;
+    color: #000;
+}
+
+.setTse p{
+    font-weight: bold;
+     margin-top: 60px;
+     font-size: 24px;
+}
+.setTse .s-settse{
+    border: 1px solid #0F0E0E;
+}
+
+
+
+.one{
+     border: 1px solid #ccc;
+    margin: 23px 340px;
+    display: inline-block;
+}
+.two{
+      border: 1px solid #ccc;
+      margin: 23px 340px;
+      display: inline-block;
+}
+.the{
+     border: 1px solid #ccc;
+    margin: 23px 340px;
+    display: inline-block;
+}
+
+
+

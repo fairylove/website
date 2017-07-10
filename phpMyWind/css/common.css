@@ -1,0 +1,130 @@
+
+
+
+
+/* start 头部样式*/
+.header-home{
+    box-shadow: 0 2px 4px rgba(1,1,1,0.15);
+    height: 50px;
+    padding-top: 6px;
+}
+.header-home .header-logo{
+    display: inline-block;
+}
+.header-home .header-nav{
+    display: inline-block;
+}
+.header-nav ul{
+ list-style: none;
+
+}
+.header-nav ul li{
+    background:url(../images/nav-logo.PNG) no-repeat;
+    float: left;
+    line-height: 30px;
+    margin-left: 29px;
+    width: 100px;
+}
+
+.header-nav li a{
+    text-decoration: none;
+    color: #fff;
+    padding-left: 18px;
+    font-size: 14px;
+
+}
+/* end 头部样式*/
+
+
+.aorise-title {
+	padding-top: 40px;
+	text-align: center;
+
+}
+.aorise-title a {
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    color: #333;
+    cursor: pointer;
+}
+.aorise-wrap {
+	text-decoration: underline;
+    border-bottom: 1px solid #BEBDBD;
+    width: 400px;
+    margin: 0 auto;
+}
+.carousel-control  img {
+    margin-top:241px;
+}
+
+
+/*公共首页横线样式*/
+.line .line-text {
+    border-bottom: 1px solid #E0DEDE;
+    margin-top: 15px;
+}
+.line .line-text span {
+    font-weight: bold;
+}
+.line .line-text a {
+    float: right;
+    color:#8C8989;
+ }
+ .content-line .content-line-text {
+    border-bottom: 1px solid #000;
+    margin-top: 40px;
+ }
+.content-line .content-line-text span {
+    font-size:20px;
+    font-weight: bold;
+}
+
+.aorise-title {
+    padding-top: 40px;
+    text-align: center;
+
+}
+.aorise-title a {
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    color: #333;
+    cursor: pointer;
+}
+
+
+.aorise-img{
+    padding-top: 40px;
+}
+
+/*公共首页横线样式*/
+
+/*footer 尾部*/
+
+
+
+.footer {
+    height: 223px;
+    width: 1770px;
+    margin: 28px 0px;
+    background-color: #999595;
+    position: relative;
+}
+.footer .f-endLoge {
+    position: relative;
+    left: 55px;
+}
+.footer .f-text3 {
+    position: absolute;
+    padding-top: 15px;
+    width: 700px;
+}
+
+.footer .f-endImg {
+    position: absolute;
+    padding: 20px 0 0 430px;
+
+
+
+/*end*/

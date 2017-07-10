@@ -1,0 +1,111 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+
+.warp .w-p p{
+    float: left;
+    text-decoration: none;
+    margin: 12px 27px;
+    font-size: 10px;
+
+}
+.warp .w-pone p a{
+    float: right;
+    text-decoration: none;
+    margin: 5px;
+    font-size: 10px;
+
+}
+.warp .w-warp{
+    border:1px solid #979797;
+    text-decoration: none;
+    margin-top: 30px;
+
+    font-size: 10px;
+}
+
+
+
+.setTse p{
+    font-weight: bold;
+    margin-top: 60px;
+}
+.setTse .s-settse{
+    border: 1px solid #0F0E0E;
+}
+
+
+.article{
+    margin: 30px;
+
+}
+.bigimg img{
+    margin-top:55px; 
+}
+.one{
+   border:1px solid #ccc;
+       margin: 30px;
+}
+.two{
+   border:1px solid #ccc;
+       margin: 30px;
+}
+.the{
+   border:1px solid #ccc;
+       margin: 30px;
+}
+
+.a-onep a{
+     text-decoration: none;
+    color: #000;
+}
+.a-twop a{
+     text-decoration: none;
+    color: #000;
+}
+.a-thep a{
+     text-decoration: none;
+    color: #000;
+}
+.article .a-one{
+    display: inline-block;
+    margin: 15px;
+    width: 400px;
+
+}
+.article .a-onep {
+    width: 700px;
+    display: inline-block;
+    margin: 0px 44px;
+    line-height: 35px;
+}
+
+.article .a-two{
+    display: inline-block;
+    margin: 15px;
+    width: 400px;
+
+}
+.article .a-twop{
+    width: 700px;
+    display: inline-block;
+    margin: 0px 44px;
+    line-height: 35px;
+
+}
+.article .a-the{
+    display: inline-block;
+    margin: 15px;
+    width: 400px;
+}
+.article .a-thep{
+    width: 700px;
+    display: inline-block;
+    margin: 0px 44px;
+    line-height: 35px;
+}
+
+
+
